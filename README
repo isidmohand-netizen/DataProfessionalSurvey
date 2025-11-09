@@ -1,0 +1,73 @@
+# Data Professional Survey Breakdown – Power BI Dashboard
+
+### 👨‍💻 Author: Idir Sid Mohand  
+**MSc Managing with Data & Artificial Intelligence – Grenoble École de Management**
+
+---
+
+## 📘 Project Overview
+This Power BI dashboard explores a real-world survey conducted among data professionals — including **Data Scientists, Data Analysts, Data Engineers, and Data Architects** — to analyze how various factors influence their work satisfaction, salaries, and professional balance.
+
+---
+
+## 🎯 Objectives
+- Understand salary differences by job title and gender  
+- Identify favorite programming languages among data professionals  
+- Measure satisfaction with work-life balance and salary  
+- Explore how factors such as country and experience level influence career perception  
+
+---
+
+## 🗂️ Data Source
+- **Original Dataset:** Excel file (`DataProfessionalSurvey.xlsx`)  
+- The dataset includes variables such as:
+  - Job title  
+  - Country of respondent  
+  - Salary and currency  
+  - Favorite programming language  
+  - Work-life balance score  
+  - Happiness with salary  
+
+---
+
+## 🛠️ Tools & Techniques
+- **Power BI Desktop** – data cleaning, modeling, and visualization  
+- **Power Query** – for data transformation and preparation  
+- **DAX (Data Analysis Expressions)** – to calculate KPIs and metrics  
+- **Excel** – as the initial data source  
+
+---
+
+## 📊 Dashboard Highlights
+- **Average Salary by Job Title:** Compare compensation across data-related roles  
+- **Favorite Programming Language:** Python dominates, followed by R and others  
+- **Happiness Indicators:** Work-life balance and salary satisfaction  
+- **Gender Salary Comparison:** Male vs. female average salary breakdown  
+- **Difficulty to Break Into Data Field:** Distribution of perceived difficulty  
+
+---
+
+## 📸 Preview
+![Dashboard Overview](dashboard_overview.png)
+
+---
+
+## 🚀 How to Use
+1. Download the Power BI file (`DataProfessionalSurvey.pbix`)  
+2. Open it with **Power BI Desktop**  
+3. Load the provided Excel data file if prompted (`DataProfessionalSurvey.xlsx`)  
+4. Interact with filters and visuals to explore insights  
+
+---
+
+## 🌍 Insights Summary
+- **Python** remains the most popular programming language among data professionals.  
+- **Data Scientists** tend to have the highest average salaries.  
+- Respondents report **moderate work-life balance (5.7/10)** and **lower salary satisfaction (4.3/10)**.  
+- Gender gaps in salaries remain visible but vary by country and role.
+
+---
+
+## 📧 Contact
+If you’re interested in discussing data visualization, analytics, or AI-driven insights, feel free to connect with me on LinkedIn or GitHub!
+
